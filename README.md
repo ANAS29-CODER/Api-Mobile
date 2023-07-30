@@ -1,3 +1,19 @@
+<h1>API Mobile Auth Passport</h1>
+<h2>Password grant token </h2>
+
+<p>Making auth for 3 guards</p>
+<p>The project is about creating full auth operations for all guards:
+    <ul>
+        <li> Login</li>
+        <li> Register (Except the Admin)</li>
+        <li> Get profile</li>
+        <li> Logout</li>
+        <li> Forget password: the system will send a verification code to the guard email.</li>
+    </ul>
+
+ </p>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
