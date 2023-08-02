@@ -8,7 +8,7 @@ use Illuminate\Notifications\Notifiable;
 use Laravel\Passport\HasApiTokens as HasApiTokensPassport;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 
-class Vendor extends Model
+class Vendor extends Authenticatable
 {
     use  HasFactory, Notifiable, HasApiTokensPassport;
 

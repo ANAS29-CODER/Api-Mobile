@@ -8,7 +8,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Passport\HasApiTokens as HasApiTokensPassport;
 
-class Client extends Model
+class Client extends Authenticatable
 {
     use  HasFactory, Notifiable, HasApiTokensPassport;
 
