@@ -1,5 +1,5 @@
 <h1>API Mobile Auth Passport</h1>
-<h2>Password grant token </h2>
+<h2>Password Grant Token </h2>
 
 <p>Making auth for 3 guards</p>
 <p>The project is about creating full auth operations for all guards:
